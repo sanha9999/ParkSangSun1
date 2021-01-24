@@ -4,8 +4,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkSangSun1&count_bg=%2379C83D&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  </div>
  <div>
-	
- Use ?theme=Gradient parameter like so :-
 ![ParkSangSun1](https://github.com/ParkSangSun1)
 </div>
 <!--
