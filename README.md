@@ -1,6 +1,5 @@
-### 박상선(ParkSangSun1)👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkSangSun1&count_bg=%2379C83D&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+### 박상선(ParkSangSun1)👋[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkSangSun1&count_bg=%2379C83D&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h2>안드로이드 앱 개발을 공부하고 있는 학생입니다</h2>
 
 
 <!--
