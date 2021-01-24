@@ -1,6 +1,6 @@
 ### <h1>박상선(ParkSangSun1)</h1> 
 ### <h3>안드로이드 앱 개발을 공부하고 있는 학생입니다</h3>
-### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ParkSangSun1&show_icons=true&theme=radical)
+### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ParkSangSun1&show_icons=true&theme=Gradient)
 
 <!--
 **ParkSangSun1/ParkSangSun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
