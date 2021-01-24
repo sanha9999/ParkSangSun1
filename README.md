@@ -1,5 +1,6 @@
 ### <h1>박상선(ParkSangSun1)</h1> 
-### <h3>안드로이드 앱 개발을 공부하고 있는 학생입니다</h3>
+### <h3>I am a student studying Android app development</h3>
+### <hr>
 ### <ul>
   ### <h4><li><a>Email : appleasz1028102@gmail.com</a></li></h4>
   ### <h4><li><a>Facebook : https://www.facebook.com/profile.php?id=100014713546744</a></li></h4>
@@ -7,7 +8,7 @@
   ### <h4><li><a>School : In Gwangju Software Meister High School/Korea</a></li></h4>
   ### <h4><li><a>Nationality : Republic of Korea</a></li></h4>
   ### <h4><li><a>Main technology : Android</a></li></h4>
-  ### <h4><li><a>Language : Kotlin, Java, C, Javascript</a></li></h4>
+  ### <h4><li><a>Language : Kotlin, Java, C, Javascript, Firebase</a></li></h4>
 ### </ul>
 ###
 ### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ParkSangSun1&show_icons=true&theme=Gradient)
