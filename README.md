@@ -10,7 +10,7 @@
   ### <h4><li><a>School : In Gwangju Software Meister High School/Korea</a></li></h4>
   ### <h4><li><a>Nationality : Republic of Korea</a></li></h4>
   ### <h4><li><a>Main technology & Language : Android, Kotlin, java, Firebase</a></li></h4>
-  ### <h4><li><a>Sub technology & Language : Html, C, Javascript</a></li></h4>
+  ### <h4><li><a>Sub technology & Language : Flutter, Dart, Html, C, Javascript</a></li></h4>
 ### </ul>
 ###
 ### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ParkSangSun1&show_icons=true&theme=Gradient)
