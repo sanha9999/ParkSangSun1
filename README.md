@@ -9,7 +9,7 @@
   ### <h4><li><a>Github : https://github.com/ParkSangSun1</a></li></h4>
   ### <h4><li><a>School : In Gwangju Software Meister High School/Korea</a></li></h4>
   ### <h4><li><a>Nationality : Republic of Korea</a></li></h4>
-  ### <h4><li><a>Main technology & Language : Android, Kotlin, java, Firebase</a></li></h4>
+  ### <h4><li><a>Main technology & Language : Android Studio, Kotlin, java, Firebase</a></li></h4>
   ### <h4><li><a>Sub technology & Language : Flutter, Dart, Html, C, Javascript</a></li></h4>
 ### </ul>
 ###
