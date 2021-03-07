@@ -7,6 +7,7 @@
   ### <h4><li><a>Email : appleasz1028102@gmail.com</a></li></h4>
   ### <h4><li><a>Facebook : https://www.facebook.com/profile.php?id=100014713546744</a></li></h4>
   ### <h4><li><a>Github : https://github.com/ParkSangSun1</a></li></h4>
+  ### <h4><li><a>My Dev Blog : https://sangsundevblog.hashnode.dev/</a></li></h4>
   ### <h4><li><a>School : In Gwangju Software Meister High School/Korea</a></li></h4>
   ### <h4><li><a>Nationality : Republic of Korea</a></li></h4>
   ### <h4><li><a>Main technology & Language : Android Studio, Kotlin, java, Firebase</a></li></h4>
