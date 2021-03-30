@@ -7,7 +7,8 @@
   ### <h4><li><a>Email : appleasz1028102@gmail.com</a></li></h4>
   ### <h4><li><a>Facebook : https://www.facebook.com/profile.php?id=100014713546744</a></li></h4>
   ### <h4><li><a>Github : https://github.com/ParkSangSun1</a></li></h4>
-  ### <h4><li><a>My Dev Blog : https://sangsundevblog.hashnode.dev/</a></li></h4>
+  ### <h4><li><a>My Dev Blog (hashnode) : https://sangsundevblog.hashnode.dev/</a></li></h4>
+  ### <h4><li><a>My Dev Blog (TISTORY) :   https://asuhdevstory.tistory.com/</a></li></h4>
   ### <h4><li><a>School : In Gwangju Software Meister High School/Korea</a></li></h4>
   ### <h4><li><a>Nationality : Republic of Korea</a></li></h4>
   ### <h4><li><a>Applications released on the Play Store : https://play.google.com/store/apps/details?id=com.league.league_of_matching</a></li></h4>
