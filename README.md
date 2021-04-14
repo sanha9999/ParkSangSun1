@@ -1,4 +1,6 @@
-### <h1>⚡Hello World⚡</h1> 
+![ParkSangSun](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ChaKyungMin&fontSize=90)
+
+
 ### <h3>I am a student studying Android app development</h3>
 ### <hr>
 ### <ul>
