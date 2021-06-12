@@ -14,7 +14,7 @@
   ### <h4><li><a>School : In Gwangju Software Meister High School/Korea</a></li></h4>
   ### <h4><li><a>Nationality : Republic of Korea</a></li></h4>
   ### <h4><li><a>Applications released on the Play Store : https://play.google.com/store/apps/details?id=com.league.league_of_matching</a></li></h4>
-  ### <h4><li><a>Main Skill & Language : Android Studio, Kotlin, java, Firebase, Glide, Retrofit, OkHttp, DataBinding, Coroutine</a></li></h4>
+  ### <h4><li><a>Main Skill & Language : Android Studio, Kotlin, java, Firebase, Glide, Retrofit, OkHttp, DataBinding, viewBinding, Coroutine</a></li></h4>
   ### <h4><li><a>Sub technology & Language : Flutter, Dart, Html, C, Javascript</a></li></h4>
 ### </ul>
 ###
