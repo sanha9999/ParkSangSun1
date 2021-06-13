@@ -5,7 +5,7 @@
 ### <hr>
 ### <ul>
   ### <h4><li><a>Name : ParkSangSun</a></li></h4>
-  ### <h4><li><a>Gender : Man</a></li></h4>
+  ### <h4><li><a>Gender : Man </a></li></h4>
   ### <h4><li><a>Email : appleasz1028102@gmail.com</a></li></h4>
   ### <h4><li><a>Facebook : https://www.facebook.com/profile.php?id=100014713546744</a></li></h4>
   ### <h4><li><a>Github : https://github.com/ParkSangSun1</a></li></h4>
